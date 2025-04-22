@@ -1,0 +1,15 @@
+# ninja log v6
+14	1303	7670002003908943	CMakeFiles/Compile_Polymorphism.dir/Logger.cpp.obj	98ab0095cb362e70
+3	3202	7670002003803359	CMakeFiles/Compile_Polymorphism.dir/main.cpp.obj	5ad09bd0c61fe7da
+3203	3682	7670002035796531	Compile_Polymorphism.exe	f7052802313906b6
+8	2832	7670002428420685	CMakeFiles/Compile_Polymorphism.dir/main.cpp.obj	5ad09bd0c61fe7da
+2833	3295	7670002456674870	Compile_Polymorphism.exe	f7052802313906b6
+8	2833	7670003472890415	CMakeFiles/Compile_Polymorphism.dir/main.cpp.obj	5ad09bd0c61fe7da
+2833	3292	7670003501145027	Compile_Polymorphism.exe	f7052802313906b6
+6	1887	7670003835303341	CMakeFiles/Compile_Polymorphism.dir/main.cpp.obj	5ad09bd0c61fe7da
+1888	2094	7670003854130889	Compile_Polymorphism.exe	f7052802313906b6
+13	885	7670005860915948	CMakeFiles/Compile_Polymorphism.dir/Logger.cpp.obj	98ab0095cb362e70
+6	1670	7670005860843966	CMakeFiles/Compile_Polymorphism.dir/main.cpp.obj	5ad09bd0c61fe7da
+1670	1885	7670005877475213	Compile_Polymorphism.exe	f7052802313906b6
+6	817	7670007407523368	CMakeFiles/Compile_Polymorphism.dir/Logger.cpp.obj	98ab0095cb362e70
+818	1025	7670007415646883	Compile_Polymorphism.exe	f7052802313906b6
