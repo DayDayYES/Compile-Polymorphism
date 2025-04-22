@@ -1,1 +1,52 @@
 2025-04-22 12:52:22: Program started
+2025-04-22 14:45:42: Program started
+2025-04-22 14:46:02: Program started
+2025-04-22 15:13:57: Failed to open tasks file for loading
+2025-04-22 15:13:57: Tasks saved successfully
+2025-04-22 15:13:57: Task added: Task: 1, Description: eat, Priority: 1, Due Date: 2025-04-22
+2025-04-22 16:36:21: Tasks loaded successfully
+2025-04-22 16:36:54: Tasks saved successfully
+2025-04-22 16:36:54: Task added: Task: 2, Description: coding, Priority: 1, Due Date:  2025-04-22
+2025-04-22 16:37:01: Invalid arguments for list command
+2025-04-22 16:39:31: Tasks loaded successfully
+2025-04-22 16:39:55: Tasks saved successfully
+2025-04-22 16:39:55: Task added: Task: 3, Description: code, Priority: 1, Due Date: 2023-3-23
+2025-04-22 16:40:56: Tasks loaded successfully
+2025-04-22 16:41:08: Tasks saved successfully
+2025-04-22 16:41:08: Task added: Task: 4, Description: code, Priority: 1, Due Date: 2022-4-23
+2025-04-22 16:42:28: Task removed: Task: 2, Description: ding, Priority: 1, Due Date: 2025-04-22
+2025-04-22 16:42:28: Tasks saved successfully
+2025-04-22 16:42:28: successfully deleted task
+2025-04-22 16:42:36: Task removed: Task: 3, Description: ode, Priority: 1, Due Date: 2023-3-23
+2025-04-22 16:42:36: Tasks saved successfully
+2025-04-22 16:42:36: successfully deleted task
+2025-04-22 16:42:39: Task removed: Task: 4, Description: code, Priority: 1, Due Date: 2022-4-23
+2025-04-22 16:42:39: Tasks saved successfully
+2025-04-22 16:42:39: successfully deleted task
+2025-04-22 16:42:43: Task removed: Task: 4, Description: code, Priority: 1, Due Date: 2022-4-23
+2025-04-22 16:42:43: Tasks saved successfully
+2025-04-22 16:42:43: successfully deleted task
+2025-04-22 16:43:02: Tasks saved successfully
+2025-04-22 16:43:02: Task added: Task: 5, Description: conda, Priority: 1, Due Date:  2023-5-24
+2025-04-22 16:43:53: Tasks saved successfully
+2025-04-22 16:43:53: Task added: Task: 6, Description: meet, Priority: 1, Due Date:  2034-2-23
+2025-04-22 16:44:32: Task updated: Task: 5, Description:  me, Priority: 2034, Due Date:  2034-9-10
+2025-04-22 16:44:32: Tasks saved successfully
+2025-04-22 16:45:18: Task updated: Task: 5, Description: me, Priority: 2034, Due Date: 2034-9-10
+2025-04-22 16:45:18: Tasks saved successfully
+2025-04-22 16:46:43: Tasks loaded successfully
+2025-04-22 16:46:56: Tasks saved successfully
+2025-04-22 16:46:56: Task added: Task: 7, Description: me, Priority: 1, Due Date:  2029-5-6
+2025-04-22 16:47:24: Task updated: Task: 7, Description: m, Priority: 3, Due Date: 2000-0-0
+2025-04-22 16:47:24: Tasks saved successfully
+2025-04-22 19:33:44: Tasks loaded successfully
+2025-04-22 19:33:59: Tasks saved successfully
+2025-04-22 19:33:59: Task added: Task: 8, Description: chi, Priority: 1, Due Date: 2020-0-0
+2025-04-22 19:42:58: Tasks loaded successfully
+2025-04-22 19:56:59: Tasks loaded successfully
+2025-04-22 19:59:40: Tasks loaded successfully
+2025-04-22 19:59:59: Tasks saved successfully
+2025-04-22 19:59:59: Task added: Task: 9, Description: eat, Priority: 1, Due Date:  2020-9-13
+2025-04-22 20:01:26: Task removed: Task: 6, Description: t, Priority: 1, Due Date: 034-2-23
+2025-04-22 20:01:26: Tasks saved successfully
+2025-04-22 20:01:26: successfully deleted task

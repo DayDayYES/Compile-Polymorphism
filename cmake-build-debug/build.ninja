@@ -61,6 +61,24 @@ build CMakeFiles/Compile_Polymorphism.dir/Logger.cpp.obj: CXX_COMPILER__Compile_
   OBJECT_DIR = CMakeFiles\Compile_Polymorphism.dir
   OBJECT_FILE_DIR = CMakeFiles\Compile_Polymorphism.dir
 
+build CMakeFiles/Compile_Polymorphism.dir/Task.cpp.obj: CXX_COMPILER__Compile_Polymorphism_unscanned_Debug D$:/study_resource/work/github/boostasio/base/Compile-Polymorphism/Task.cpp || cmake_object_order_depends_target_Compile_Polymorphism
+  DEP_FILE = CMakeFiles\Compile_Polymorphism.dir\Task.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Compile_Polymorphism.dir
+  OBJECT_FILE_DIR = CMakeFiles\Compile_Polymorphism.dir
+
+build CMakeFiles/Compile_Polymorphism.dir/TaskManger.cpp.obj: CXX_COMPILER__Compile_Polymorphism_unscanned_Debug D$:/study_resource/work/github/boostasio/base/Compile-Polymorphism/TaskManger.cpp || cmake_object_order_depends_target_Compile_Polymorphism
+  DEP_FILE = CMakeFiles\Compile_Polymorphism.dir\TaskManger.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Compile_Polymorphism.dir
+  OBJECT_FILE_DIR = CMakeFiles\Compile_Polymorphism.dir
+
+build CMakeFiles/Compile_Polymorphism.dir/Command.cpp.obj: CXX_COMPILER__Compile_Polymorphism_unscanned_Debug D$:/study_resource/work/github/boostasio/base/Compile-Polymorphism/Command.cpp || cmake_object_order_depends_target_Compile_Polymorphism
+  DEP_FILE = CMakeFiles\Compile_Polymorphism.dir\Command.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Compile_Polymorphism.dir
+  OBJECT_FILE_DIR = CMakeFiles\Compile_Polymorphism.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Compile_Polymorphism
@@ -69,7 +87,7 @@ build CMakeFiles/Compile_Polymorphism.dir/Logger.cpp.obj: CXX_COMPILER__Compile_
 #############################################
 # Link the executable Compile_Polymorphism.exe
 
-build Compile_Polymorphism.exe: CXX_EXECUTABLE_LINKER__Compile_Polymorphism_Debug CMakeFiles/Compile_Polymorphism.dir/main.cpp.obj CMakeFiles/Compile_Polymorphism.dir/Logger.cpp.obj
+build Compile_Polymorphism.exe: CXX_EXECUTABLE_LINKER__Compile_Polymorphism_Debug CMakeFiles/Compile_Polymorphism.dir/main.cpp.obj CMakeFiles/Compile_Polymorphism.dir/Logger.cpp.obj CMakeFiles/Compile_Polymorphism.dir/Task.cpp.obj CMakeFiles/Compile_Polymorphism.dir/TaskManger.cpp.obj CMakeFiles/Compile_Polymorphism.dir/Command.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Compile_Polymorphism.dir

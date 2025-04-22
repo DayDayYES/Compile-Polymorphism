@@ -5,4 +5,10 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_executable(Compile_Polymorphism main.cpp
         Logger.cpp
-        Logger.h)
+        Logger.h
+        Task.cpp
+        Task.h
+        TaskManger.cpp
+        TaskManger.h
+        Command.cpp
+        Command.h)
